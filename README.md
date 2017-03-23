@@ -4,9 +4,10 @@ For example, Stock information for Apple can be looked up using Apple or AAPL </
 Local Storage is used to save search results</br>
 Bootsrap is used to achieve the responsive web design </br>
 PHP file is stored and used from AWS Elastic Beanstalk </br>
+highcharts scripts are used to achieve historical charts </br>
 APIs Used: </br>
 
    * MarkitOnDemand
    * Facebook
    * Bing News
-   * highCharts
+   
